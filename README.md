@@ -1,3 +1,3 @@
 # Kryten-IDX
 
-A Flask starter template as per the docs: https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application
+This project is for experimenting with Google's [Project IDX](https://developers.google.com/idx) platform. This project is developed with Python using the [Flask](https://flask.palletsprojects.com/) web framework.
